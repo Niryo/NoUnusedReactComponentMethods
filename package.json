@@ -1,5 +1,5 @@
 {
-  "name": "nounusedreactcomponentmethods",
+  "name": "eslint-plugin-no-unused-react-component-methods",
   "version": "1.0.0",
   "description": "Eslint rule for disallowing unused methods inside a React component",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "scripts": {
     "test": "mocha ./tests/**/*.js"
   },
-  "author": "",
+  "author": "niryo",
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^8.2.3",

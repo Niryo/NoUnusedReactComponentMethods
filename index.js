@@ -1,1 +1,5 @@
-import * as Rule from 'lib/rules/no-unused-react-component-methods.js'
+module.exports = {
+  rules: {
+    'no-unused-react-component-methods': require('./lib/rules/no-unused-react-component-methods')
+  }
+}
